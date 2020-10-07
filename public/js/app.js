@@ -38405,7 +38405,7 @@ var render = function() {
           _c("div", { staticClass: "col-md-12" }, [
             _c("p", [
               _vm._v(
-                "\n                        This is Dashboard, welcome " +
+                "\n                        Hello, This is Dashboard, welcome " +
                   _vm._s(_vm.fname) +
                   ", " +
                   _vm._s(_vm.lname) +
